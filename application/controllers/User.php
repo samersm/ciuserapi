@@ -5,6 +5,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * User class.
  * 
  * @extends CI_Controller
+ * 
+ * Modified for github commit
  */
 class User extends CI_Controller {
 
