@@ -80,7 +80,7 @@ NodeJS
 
 * npm init
 
-* npm innstall -g
+* npm install -g
 
 * npm install -s
 
