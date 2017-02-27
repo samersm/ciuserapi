@@ -65,6 +65,10 @@ Github
 
 * git push -f
 
+* git clone <project path>
+
+* rm -rf .git
+
 * heroku domains (To view all your domains)
 
 * heroku rake db:migrate
